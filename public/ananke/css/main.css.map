@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/mnt/d/bud175.github.io/ithelp_2021_hugo",
+	"sourceRoot": "/mnt/d/bud175.github.io",
 	"sources": [
 		"ananke/css/main.css"
 	],
